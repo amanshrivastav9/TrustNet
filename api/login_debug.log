@@ -1,0 +1,81 @@
+2026-05-09 15:35:01 - Request: {"api_key":"YOUR_API_KEY_HERE","secret_key":"YOUR_SECRET_KEY_HERE","email":"test@example.com","password":"wrong"}
+2026-05-09 15:35:01 - Request: {"api_key":"YOUR_API_KEY_HERE","secret_key":"YOUR_SECRET_KEY_HERE","email":"test@example.com","password":"wrong"}
+2026-05-09 15:35:01 - Request: {"api_key":"YOUR_API_KEY_HERE","secret_key":"YOUR_SECRET_KEY_HERE","email":"test@example.com","password":"wrong"}
+2026-05-09 15:35:02 - Request: {"api_key":"YOUR_API_KEY_HERE","secret_key":"YOUR_SECRET_KEY_HERE","email":"test@example.com","password":"wrong"}
+2026-05-09 15:35:02 - Request: {"api_key":"YOUR_API_KEY_HERE","secret_key":"YOUR_SECRET_KEY_HERE","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:28 - Request: {"api_key":"TRN_397b8d85340a1c040f105c9bfd8dda49","secret_key":"SK_6917abe768039c6b129b6e6623862aaefad980b1f3ceea6d","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:28 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:36:28 - Request: {"api_key":"TRN_397b8d85340a1c040f105c9bfd8dda49","secret_key":"SK_6917abe768039c6b129b6e6623862aaefad980b1f3ceea6d","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:28 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:36:29 - Request: {"api_key":"TRN_397b8d85340a1c040f105c9bfd8dda49","secret_key":"SK_6917abe768039c6b129b6e6623862aaefad980b1f3ceea6d","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:29 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:36:29 - Request: {"api_key":"TRN_397b8d85340a1c040f105c9bfd8dda49","secret_key":"SK_6917abe768039c6b129b6e6623862aaefad980b1f3ceea6d","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:29 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:36:29 - Request: {"api_key":"TRN_397b8d85340a1c040f105c9bfd8dda49","secret_key":"SK_6917abe768039c6b129b6e6623862aaefad980b1f3ceea6d","email":"test@example.com","password":"wrong"}
+2026-05-09 15:36:29 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:38:10 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:38:10 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:38:11 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:38:11 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:38:12 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:38:12 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:38:13 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:38:13 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:38:14 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:38:14 - Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'trustnet_db.website_users' doesn't exist
+2026-05-09 15:39:30 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:39:30 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:39:31 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:39:31 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:39:32 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:39:32 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:39:33 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:39:33 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:39:34 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:39:34 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:09 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:09 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:35 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:36 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:37 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:37 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:38 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:38 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:39 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:39 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:40 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:41:40 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:41 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:41:41 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:42 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:41:42 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:43 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:41:43 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:44 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:41:44 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:41:45 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:41:45 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:53 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:45:53 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:54 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:45:54 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:55 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:45:55 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:56 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:45:56 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:57 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:45:57 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:58 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:45:58 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:45:59 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:45:59 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:46:00 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:46:00 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:46:01 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:46:01 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:46:02 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"demo@example.com","password":"wrongpassword123"}
+2026-05-09 15:46:02 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:46:12 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:46:12 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'
+2026-05-09 15:46:13 - Request: {"api_key":"TRN_3bb3bcffe3ed5e7c8294bd6297e834cd","secret_key":"SK_f841626eef789e161b13f4fbb40f10fee0cf6a5d61ea02c7","email":"test@example.com","password":"wrongpassword"}
+2026-05-09 15:46:13 - Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_updated' in 'where clause'

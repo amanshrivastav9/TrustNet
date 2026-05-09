@@ -1,0 +1,11 @@
+{
+    "name": "trustnet/security-platform",
+    "description": "Advanced Security Platform with API Management",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
