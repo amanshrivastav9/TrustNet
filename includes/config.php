@@ -14,9 +14,9 @@ define('SITE_NAME', 'TrustNet Security Platform');
 // Email configuration (PHPMailer)
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
-define('SMTP_USER', 'amanshrivastav2010@gmail.com'); // Replace with your email
-define('SMTP_PASS', 'duki mluz wtpw uxzp'); // Replace with Gmail app password
-define('SMTP_FROM', 'amanshrivastav2010@gmail.com');
+define('SMTP_USER', ''); // Replace with your email
+define('SMTP_PASS', ''); // Replace with Gmail app password
+define('SMTP_FROM', '');
 define('SMTP_FROM_NAME', 'TrustNet Security');
 
 // Security configuration
